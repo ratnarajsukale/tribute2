@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../artist page"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tribute page"
+	}
+}
